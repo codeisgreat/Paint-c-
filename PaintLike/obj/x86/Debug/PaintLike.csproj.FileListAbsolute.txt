@@ -1,0 +1,41 @@
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\bin\Debug\PaintLike.exe
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\bin\Debug\PaintLike.pdb
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\obj\x86\Debug\PaintLike.Form1.resources
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\obj\x86\Debug\PaintLike.Properties.Resources.resources
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\obj\x86\Debug\PaintLike.exe
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\obj\x86\Debug\PaintLike.pdb
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\bin\Debug\BlackWhite.Plugin.dll
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\bin\Debug\Plugin.Interface.dll
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\bin\Debug\BlackWhite.Plugin.pdb
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\PaintLike\bin\Debug\Plugin.Interface.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\obj\x86\Debug\PaintLike.exe
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\obj\x86\Debug\PaintLike.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\bin\Debug\PaintLike.exe
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\bin\Debug\PaintLike.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\bin\Debug\BlackWhite.Plugin.dll
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\bin\Debug\Plugin.Interface.dll
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\bin\Debug\BlackWhite.Plugin.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\bin\Debug\Plugin.Interface.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\obj\x86\Debug\PaintLike.Form1.resources
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\obj\x86\Debug\PaintLike.Properties.Resources.resources
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\PaintLike\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\paint\PaintLike\PaintLike\obj\x86\Debug\PaintLike.exe
+C:\paint\PaintLike\PaintLike\obj\x86\Debug\PaintLike.pdb
+C:\paint\PaintLike\PaintLike\bin\Debug\PaintLike.exe
+C:\paint\PaintLike\PaintLike\bin\Debug\PaintLike.pdb
+C:\paint\PaintLike\PaintLike\bin\Debug\BlackWhite.Plugin.dll
+C:\paint\PaintLike\PaintLike\bin\Debug\Plugin.Interface.dll
+C:\paint\PaintLike\PaintLike\bin\Debug\BlackWhite.Plugin.pdb
+C:\paint\PaintLike\PaintLike\bin\Debug\Plugin.Interface.pdb
+C:\paint\PaintLike\PaintLike\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\paint\PaintLike\PaintLike\obj\x86\Debug\PaintLike.Form1.resources
+C:\paint\PaintLike\PaintLike\obj\x86\Debug\PaintLike.Properties.Resources.resources
+C:\paint\PaintLike\PaintLike\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\paint\PaintLike\PaintLike\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\paint\PaintLike\PaintLike\bin\Debug\Rotate.Plugin.dll
+C:\paint\PaintLike\PaintLike\bin\Debug\Rotate.Plugin.pdb

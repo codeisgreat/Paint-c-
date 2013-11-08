@@ -1,0 +1,7 @@
+C:\paint\PaintLike\Rotate.Plugin\bin\Debug\Rotate.Plugin.dll
+C:\paint\PaintLike\Rotate.Plugin\bin\Debug\Rotate.Plugin.pdb
+C:\paint\PaintLike\Rotate.Plugin\bin\Debug\Plugin.Interface.dll
+C:\paint\PaintLike\Rotate.Plugin\bin\Debug\Plugin.Interface.pdb
+C:\paint\PaintLike\Rotate.Plugin\obj\Debug\ResolveAssemblyReference.cache
+C:\paint\PaintLike\Rotate.Plugin\obj\Debug\Rotate.Plugin.dll
+C:\paint\PaintLike\Rotate.Plugin\obj\Debug\Rotate.Plugin.pdb

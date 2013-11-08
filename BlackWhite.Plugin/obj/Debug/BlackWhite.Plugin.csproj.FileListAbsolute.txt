@@ -1,0 +1,21 @@
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\BlackWhite.Plugin\bin\Debug\BlackWhite.Plugin.dll
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\BlackWhite.Plugin\bin\Debug\BlackWhite.Plugin.pdb
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\BlackWhite.Plugin\bin\Debug\Plugin.Interface.dll
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\BlackWhite.Plugin\bin\Debug\Plugin.Interface.pdb
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\BlackWhite.Plugin\obj\Debug\ResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\BlackWhite.Plugin\obj\Debug\BlackWhite.Plugin.dll
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\BlackWhite.Plugin\obj\Debug\BlackWhite.Plugin.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\BlackWhite.Plugin\bin\Debug\BlackWhite.Plugin.dll
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\BlackWhite.Plugin\bin\Debug\BlackWhite.Plugin.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\BlackWhite.Plugin\bin\Debug\Plugin.Interface.dll
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\BlackWhite.Plugin\bin\Debug\Plugin.Interface.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\BlackWhite.Plugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\BlackWhite.Plugin\obj\Debug\BlackWhite.Plugin.dll
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\BlackWhite.Plugin\obj\Debug\BlackWhite.Plugin.pdb
+C:\paint\PaintLike\BlackWhite.Plugin\bin\Debug\BlackWhite.Plugin.dll
+C:\paint\PaintLike\BlackWhite.Plugin\bin\Debug\BlackWhite.Plugin.pdb
+C:\paint\PaintLike\BlackWhite.Plugin\bin\Debug\Plugin.Interface.dll
+C:\paint\PaintLike\BlackWhite.Plugin\bin\Debug\Plugin.Interface.pdb
+C:\paint\PaintLike\BlackWhite.Plugin\obj\Debug\ResolveAssemblyReference.cache
+C:\paint\PaintLike\BlackWhite.Plugin\obj\Debug\BlackWhite.Plugin.dll
+C:\paint\PaintLike\BlackWhite.Plugin\obj\Debug\BlackWhite.Plugin.pdb

@@ -1,0 +1,15 @@
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\Plugin.Interface\bin\Debug\Plugin.Interface.dll
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\Plugin.Interface\bin\Debug\Plugin.Interface.pdb
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\Plugin.Interface\obj\Debug\ResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\Plugin.Interface\obj\Debug\Plugin.Interface.dll
+c:\users\adm\documents\visual studio 2010\Projects\PaintLike\Plugin.Interface\obj\Debug\Plugin.Interface.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\Plugin.Interface\bin\Debug\Plugin.Interface.dll
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\Plugin.Interface\bin\Debug\Plugin.Interface.pdb
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\Plugin.Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\Plugin.Interface\obj\Debug\Plugin.Interface.dll
+C:\Users\inf111569\Downloads\PaintLike\PaintLike\Plugin.Interface\obj\Debug\Plugin.Interface.pdb
+C:\paint\PaintLike\Plugin.Interface\bin\Debug\Plugin.Interface.dll
+C:\paint\PaintLike\Plugin.Interface\bin\Debug\Plugin.Interface.pdb
+C:\paint\PaintLike\Plugin.Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\paint\PaintLike\Plugin.Interface\obj\Debug\Plugin.Interface.dll
+C:\paint\PaintLike\Plugin.Interface\obj\Debug\Plugin.Interface.pdb
